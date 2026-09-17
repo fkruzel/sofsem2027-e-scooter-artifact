@@ -23,5 +23,6 @@
   "timestamp_note": "Author manifest says September 10-11; detailed propagation timestamps say September 8. Unresolved.",
   "artifact_name": "SOFSEM2027_evidence.zip",
   "artifact_sha256": "d82aeb61819dac4ad061118e8f24d7ae661e9d22fec420abe46df9b72afb2bb5",
-  "artifact_bytes": 55810680
+  "artifact_bytes": 55810680,
+  "download_url": "https://raw.githubusercontent.com/fkruzel/sofsem2027-e-scooter-artifact/v1.0.0/SOFSEM2027_evidence.zip"
 }

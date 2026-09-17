@@ -7,7 +7,7 @@ by Piotr Gaska and Filip Kruzel.
 ## Download
 
 Use the [versioned release](https://github.com/fkruzel/sofsem2027-e-scooter-artifact/releases/tag/v1.0.0) and download
-[SOFSEM2027_evidence.zip](https://github.com/fkruzel/sofsem2027-e-scooter-artifact/releases/download/v1.0.0/SOFSEM2027_evidence.zip).
+[SOFSEM2027_evidence.zip](https://raw.githubusercontent.com/fkruzel/sofsem2027-e-scooter-artifact/v1.0.0/SOFSEM2027_evidence.zip).
 The release is public and requires no GitHub login.
 
 The package includes 400 k6 reports (275 startRide and 125 finishRide runs),
@@ -17,7 +17,7 @@ The development repository requires authorization; access to it is not needed
 because the source snapshot is included in the archive.
 
 The ZIP's SHA-256 is `d82aeb61819dac4ad061118e8f24d7ae661e9d22fec420abe46df9b72afb2bb5`.
-`SHA256SUMS.txt` in the release verifies the ZIP; the file with the same name
+`SHA256SUMS.txt` in the repository verifies the ZIP; the file with the same name
 inside the ZIP verifies each unpacked artifact file.
 
 ## Reproduce
